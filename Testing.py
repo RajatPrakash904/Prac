@@ -1,6 +1,2 @@
-{
-    
-    
-    print("Let's See if this works")
+print("Let's See if this works")
 
-        }
